@@ -1,5 +1,5 @@
 # time-logs-api
-api for timelog app
+api for timelog app (https://github.com/defecode/time-logs-api)
 
 # installation
 clone the code from terminal/cmd by 
